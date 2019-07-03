@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Tiny Junkyard</title>
-    <link href="http://tinyjunnkyard.org/feed.xml" rel="self" />
-    <link href="http://tinyjunnkyard.org" />
-    <updated>2019-07-03T14:40:12-06:00</updated>
+    <link href="https://tinyjunkyard.org/feed.xml" rel="self" />
+    <link href="https://tinyjunkyard.org" />
+    <updated>2019-07-03T16:24:06-06:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
-    <id>http://tinyjunnkyard.org</id>
+    <id>https://tinyjunkyard.org</id>
 
     <entry>
         <title>How to particpate</title>
         <author>
             <name>Greg Willson</name>
         </author>
-        <link href="http://tinyjunnkyard.org/our-node-based-approach.html"/>
-        <id>http://tinyjunnkyard.org/our-node-based-approach.html</id>
+        <link href="https://tinyjunkyard.org/our-node-based-approach.html"/>
+        <id>https://tinyjunkyard.org/our-node-based-approach.html</id>
 
         <updated>2019-07-03T13:57:37-06:00</updated>
             <summary>
@@ -36,8 +36,8 @@
         <author>
             <name>Greg Willson</name>
         </author>
-        <link href="http://tinyjunnkyard.org/sharing-makes-us-all-stronger.html"/>
-        <id>http://tinyjunnkyard.org/sharing-makes-us-all-stronger.html</id>
+        <link href="https://tinyjunkyard.org/sharing-makes-us-all-stronger.html"/>
+        <id>https://tinyjunkyard.org/sharing-makes-us-all-stronger.html</id>
 
         <updated>2019-07-03T14:23:57-06:00</updated>
             <summary>
