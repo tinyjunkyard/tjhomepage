@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tiny Junkyard",
+    "description": "",
+    "home_page_url": "http://tinyjunnkyard.org",
+    "feed_url": "http://tinyjunnkyard.org/feed.json",
+    "user_comment": "",
+    "icon": "http://tinyjunnkyard.org/media/website/tj3b.png",
+    "author": {
+        "name": "Greg Willson"
+    },
+    "items": [
+        {
+            "id": "http://tinyjunnkyard.org/our-node-based-approach.html",
+            "url": "http://tinyjunnkyard.org/our-node-based-approach.html",
+            "title": "How to particpate",
+            "summary": "Tiny Junkyard provides private web pages for each participant. To get started, simply click the button! It will launch a secure web shop that allows you to maintain an inventory of items that you have access to, to sell or trade with anyone, with no&hellip;",
+            "content_html": "<p>Tiny Junkyard provides private web pages for each participant. To get started, simply click the button!  It will launch a secure web shop that allows you to maintain an inventory of items that you have access to, to sell or trade with anyone, with no obligation to us. </p>\n<p> <a href=\"https://www.heroku.com/deploy/?template=https://github.com/mirumee/saleor\"><img src=\"https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667\" alt=\"Launch your tiny junkyard instance\" border=\"0\"></a></p>\n<p>By using this app, you agree not to hold us liable for damages, loss of property, etc.  Thank you.   </p>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-03T13:07:24-06:00",
+            "date_modified": "2019-07-03T13:57:37-06:00"
+        },
+        {
+            "id": "http://tinyjunnkyard.org/sharing-makes-us-all-stronger.html",
+            "url": "http://tinyjunnkyard.org/sharing-makes-us-all-stronger.html",
+            "title": "Sharing makes us all stronger",
+            "summary": "Collaborating for a better future.Tiny? When thinking of junk, its usually something we want less of, we want it reduced. 'Tiny' refers to the fact that we support a digital junkyard that is in constant state of motion via planning, selling, trading, and maintenance, with&hellip;",
+            "content_html": "<div class=\"pv5 pv6-l ph3 bg-center cover\">\n<div class=\"mw7 center ph3\">\n<div class=\"db mb3\">\n<div class=\"mw7 relative bg-fix-primary mb3\">\n<h1 id=\"mcetoc_1desakm2r0\" class=\"f2 f1-l b di lh-title mb3 white mw6 bg-primary\">Collaborating for a better future.</h1>\n</div>\n<div class=\"mw7 relative bg-fix-primary\">\n<p class=\"b f4 di lh-title mb3 white mw6 bg-primary\">Tiny?</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"bg-grey-1 pv4\">\n<div class=\"flex-l mhn1-l ph3 center mw7\">\n<p class=\"w-60-l mv0\">When thinking of junk, its usually something we want less of, we want it reduced. 'Tiny' refers to the fact that we support a digital junkyard that is in constant state of motion via planning, selling, trading, and maintenance, with recycling or disposal as a last option. Our goal is to divert more and landfill less.</p>\n</div>\n</div>\n<div class=\"bg-off-white pv4\">\n<div class=\"ph3 mw7 center\">\n<h2 id=\"mcetoc_1desakm2u2\" class=\"f2 b lh-title mt0 mb2\">Requesting materials</h2>\n<p class=\"mt0 mb4 mw6\">Tiny Junkyard is a connector that helps us to have virtual space to work from. Alot of the work that needs to be done is basically PLANNING, coming up with a good design... That's why we are working to provide an intelligent junkyard robot assistant. The assistant we are working on is design to help assist each of us here at the Tiny Junkyard with sharing and trading items so that more projects get built .</p>\n<div class=\"flex-ns mhn2-ns mb3\">\n<div class=\"ph2-ns w-50-ns\"><img class=\"center db mb3\" src=\"http://tinyjunkyard.org/\" alt=\"\"><img class=\"center db mb3\" src=\"http://tinyjunkyard.org/\" alt=\"\"> </div>\n</div>\n<div class=\"tc\"><a href=\"http://tinyjunkyard.org/products\" class=\"btn raise\">See all listings</a></div>\n</div>\n</div>\n<div class=\"bg-grey-1 pv4\">\n<div class=\"ph3 mw7 center\">\n<div class=\"flex-l mhn2-l\">\n<div class=\"w-40-l ph2-l\">\n<h2 id=\"mcetoc_1desakm2u3\" class=\"f2 b lh-title mt0 mb2\">Our values</h2>\n<p class=\"mt0\">Easier ways to share items which could othewise go to waste, good designs, and the benefits of building with your neighbors are the common goals that motivate this project. Trading and collaborating locally creates cohesive community and can make work more enjoyable.</p>\n<h2 id=\"mcetoc_1desmu0gr1\"><strong>Request/ share / design with materials</strong></h2>\n<p class=\"mt0 mb4 mw6\">Tiny Junkyard is a connector that helps us to have virtual space to work from. Alot of the work that needs to be done is basically PLANNING, coming up with a good design... That's why we are working to provide an intelligent junkyard robot assistant. The assistant we are working on is design to help assist each of us here at the Tiny Junkyard with sharing and trading items so that more projects get built .</p>\n</div>\n</div>\n</div>\n</div>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-03T10:28:42-06:00",
+            "date_modified": "2019-07-03T14:23:57-06:00"
+        }
+    ]
+}

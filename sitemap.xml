@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://tinyjunnkyard.org/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>http://tinyjunnkyard.org/</loc>
+</url>
+<url>
+<loc>http://tinyjunnkyard.org/our-node-based-approach.html</loc>
+<lastmod>2019-07-03T13:57:37-06:00</lastmod>
+<image:image>
+<image:loc>https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667</image:loc>
+<image:title><![CDATA[Launch your tiny junkyard instance]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>http://tinyjunnkyard.org/sharing-makes-us-all-stronger.html</loc>
+<lastmod>2019-07-03T14:23:57-06:00</lastmod>
+<image:image>
+<image:loc>http://tinyjunkyard.org/</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://tinyjunkyard.org/</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
